@@ -1,1 +1,4 @@
 # Demand-Forecasting-and-Inventory-Optimization
+The Demand Forecasting and Inventory Optimization project employs the SARIMA time series model for accurate forecasting, determining the values of p and q through the analysis of the Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF). The project also involves the computation of the Optimal Order Quantity and Reorder Point to enhance inventory management.  
+
+In addition to forecasting, the project focuses on Inventory Optimization, aiming to strike a harmonious balance between maintaining sufficient stock levels to meet demand and avoiding excess inventory that may tie up capital and storage space. The Optimal Order Quantity and Reorder Point are calculated to streamline the procurement process, ensuring that stock is replenished efficiently.
